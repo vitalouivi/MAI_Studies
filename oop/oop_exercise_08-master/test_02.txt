@@ -1,0 +1,13 @@
+r
+rectangle 2 2 2 2 2 2 2 2
+rectangle 2 2 2 2 2 2 2 2
+rectangle 2 2 2 2 2 2 2 2
+rectangle 2 2 2 2 2 2 2 2
+rectangle 2 2 2 2 2 2 2 2
+r
+rectangle 2 2 2 2 2 2 2 2
+rectangle 2 2 2 2 2 2 2 2
+rectangle 2 2 2 2 2 2 2 2
+rectangle 2 2 2 2 2 2 2 2
+rectangle 2 2 2 2 2 2 2 2
+q

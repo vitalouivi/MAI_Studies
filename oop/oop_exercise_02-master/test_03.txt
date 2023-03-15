@@ -1,0 +1,4 @@
+Msc str1 10 5
+Spb st 5 15
+spb
+st
